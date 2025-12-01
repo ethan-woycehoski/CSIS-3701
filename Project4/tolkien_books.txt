@@ -1,0 +1,7 @@
+The Hobbit	300	9.99
+The Children of Húrin	-1	10.99
+Fellowship of the Ring	464	10.99
+The Two Towers	400	11.99
+The Return of the King	496	12.99
+The Silmarillion	384	-10.99
+	100	5.00
